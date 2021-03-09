@@ -1,3 +1,9 @@
-# My React/GitHub Practise/Projects
+# React Projects Practise
 
-Check out my Sorting Visualizer here: https://xpurcell.github.io/SortingVisualizer/#/
+Created this static site to learn React and Javascript.
+
+You'll find a few projects in the top left by clicking on the tabs.
+
+The projects aren't perfect, they're more proof of concepts.
+
+Check them out here: https://xpurcell.github.io/ReactProjects/
